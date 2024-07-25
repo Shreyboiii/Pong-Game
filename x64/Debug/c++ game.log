@@ -1,0 +1,7 @@
+﻿  win32_platform.cpp
+C:\Users\shrey\OneDrive\Desktop\Shrey\Projects\C++ test\c++ game\c++ game\renderer.cpp(64,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shrey\OneDrive\Desktop\Shrey\Projects\C++ test\c++ game\c++ game\renderer.cpp(65,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shrey\OneDrive\Desktop\Shrey\Projects\C++ test\c++ game\c++ game\renderer.cpp(66,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shrey\OneDrive\Desktop\Shrey\Projects\C++ test\c++ game\c++ game\renderer.cpp(67,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shrey\OneDrive\Desktop\Shrey\Projects\C++ test\c++ game\c++ game\game.cpp(158,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  c++ game.vcxproj -> C:\Users\shrey\OneDrive\Desktop\Shrey\Projects\C++ test\c++ game\x64\Debug\c++ game.exe

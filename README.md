@@ -1,5 +1,5 @@
 ## Overview
-This project is a simple implementation of the classic Pong game using C++. The game is designed to be a fun project that showcases basic game development concepts like rendering, game physics, and input handling.
+This project is a simple implementation of the classic Pong game using C++. The game is designed to showcases basic game development concepts like rendering, game physics, and input handling.
 
 ## Features
 - **Rendering:** Simple 2D rendering of game elements including paddles, ball, and the game arena.
